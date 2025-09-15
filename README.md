@@ -1,4 +1,4 @@
-# CCD React Demo App
+# React App
 
 **Purpose**: Demo React application for DevOps testing and deployment pipelines.
 
