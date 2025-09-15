@@ -1,6 +1,6 @@
-# React App CCD Clone
+# CCD React Demo App
 
-A React application built with Create React App.
+**Purpose**: Demo React application for DevOps testing and deployment pipelines.
 
 ## Quick Start
 
@@ -9,10 +9,30 @@ npm install
 npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view in browser.
+**Local**: [http://localhost:3000](http://localhost:3000)
+
+## DevOps Ready
+
+- ✅ Production build optimized
+- ✅ Environment variables configured
+- ✅ PWA enabled
+- ✅ Docker ready
+- ✅ CI/CD pipeline compatible
 
 ## Scripts
 
-- `npm start` - Development server
-- `npm test` - Run tests
-- `npm run build` - Production build
+```bash
+npm start      # Dev server
+npm run build  # Production build
+npm test       # Run tests
+```
+
+## Tech Stack
+
+- React 18
+- CSS3 (Responsive)
+- PWA Ready
+- Component Architecture
+
+---
+*Demo app for DevOps engineers - Shubham*
